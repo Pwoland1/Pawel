@@ -25,7 +25,7 @@
         android:id="@+id/telBtnClicked"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Push to dial"
+        android:text="Push to dial the number"
         android:layout_below="@id/telNumber"
         android:onClick="telBtnClicked"/>
 
